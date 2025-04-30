@@ -14,7 +14,7 @@ The system employs cutting-edge techniques, including **super-resolution technol
 
 ## Technologies Used
 - **Deep Learning** (TensorFlow / PyTorch)
-- **NLP** (BERT / GPT)
+- **NLP** (GPT2)
 - **Super-Resolution Technology** ((Real ESRGAN)for enhancing drone imagery)
 - **Frontend** (Streamlit)
 - **Backend** (Python)
